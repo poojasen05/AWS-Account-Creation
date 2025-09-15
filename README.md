@@ -14,8 +14,13 @@
 Include the commands used in the Experiment.
 
 ## OUTPUT
-### REG NUMBER:
-### NAME:
+### REG NUMBER:212223040146
+### NAME: pooja s
+
+![WhatsApp Image 2025-09-15 at 14 18 44_2497e02b](https://github.com/user-attachments/assets/32afd37d-745a-4111-bf72-1b70e9207a85)
+
+
+
  
  Include your Screenshots Here.
 ## RESULT
